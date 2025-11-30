@@ -34,14 +34,3 @@ Cada ejercicio es un archivo `.cpp` independiente y fácil de ejecutar.
 🔥 Determina el **elemento más repetido** del array (mayor frecuencia).
 
 ---
-
-## 🛠️ **Cómo Compilar y Ejecutar**
-
-Necesitas un compilador de C++ (por ejemplo, **g++**).
-
-1. Abre tu terminal.  
-2. Entra a la carpeta donde está el proyecto.  
-3. Compila el archivo que quieras:
-
-```bash
-g++ 1_maximo.cpp -o maximo
